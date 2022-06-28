@@ -19,11 +19,11 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![C++](https://img.shields.io/badge/C++-black.svg?style=flat&logo=c%2B%2B)&nbsp;
+![C++](https://img.shields.io/badge/C++-05122A?style=flat&logo=c%2B%2B)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
   
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sahitm&show_icons=true&locale=en&layout=compact" alt="sahitm" /></p>  
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sahitm&show_icons=true&locale=en&layout=compact" alt="sahitm" /></p>  
   
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sahitm&show_icons=true&locale=en" alt="sahitm" /></p>  
   
