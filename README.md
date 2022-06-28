@@ -10,10 +10,16 @@
   
   <h3 align="center">My Current Tech Stack</h3>  
 
-<p align="center">JavaScript |  React | 
-HTML |  CSS | Git | GitHub |
-Visual Studio Code | Python | C++
-</p>  
+<p>JavaScript </p>
+<p>React</p>
+<p>HTML</p>
+<p>CSS</p>
+<p>Git</p>
+<p>GitHub</p>
+<p>Python</p>
+<p>C++</p>
+  
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sahitm&show_icons=true&locale=en&layout=compact" alt="sahitm" /></p>  
   
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sahitm&show_icons=true&locale=en" alt="sahitm" /></p>  
