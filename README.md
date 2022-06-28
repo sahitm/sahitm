@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there 👋 I'm Sahit
 
-<!--
-**sahitm/sahitm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on building React projects.
+- 🌱 I'm currently learning to become a full stack developer.
+- 💬 Ask me about HTML,CSS &javaScript.
+- 📫 How to reach me: Twitter - @SahitMandapati.
+- 😄 Pronouns: he/him.
+- ⚡ Fun fact: I'm a movie buff.
 
-Here are some ideas to get you started:
+🛠   My Current Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+JavaScript  React  
+HTML  CSS  Git  GitHub 
+Visual Studio Code Python C++
+
