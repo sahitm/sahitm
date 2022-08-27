@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sahit Mandapati</h1>  
-<h3 align="center">A passionate frontend developer from India</h3>  
+<h3 align="center">A frontend developer from India</h3>  
   
-- 🔭 I’m currently working on building React projects.
+- 🔭 I’m currently building React projects.
 - 🌱 I'm currently learning to become a full stack Web developer.
 - 💬 Ask me about HTML,CSS &javaScript.
 - 📫 How to reach me: Twitter - [@SahitMandapati.](https://twitter.com/SahitMandapati)
@@ -20,7 +20,6 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![C++](https://img.shields.io/badge/C++-05122A?style=flat&logo=c%2B%2B)&nbsp;
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
   
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sahitm&show_icons=true&locale=en&layout=compact" alt="sahitm" /></p>  
